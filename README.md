@@ -14,5 +14,4 @@ Cmdline Commands:
 - list process (tasklist)
 - kill process (tasklist /F /PID [PROCESS])
 
-While killing processes it is also possible to kill a certain process without having to type in the file extension in Powershell, since it is already implemented in the code.
-
+While killing processes it is also possible to kill a certain process without having to type in the file extension in Powershell, since it is already implemented in the code, although beforehand the path needs to be configured.
