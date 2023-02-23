@@ -1,7 +1,7 @@
 # ShortCommands
-Basic Python Script, which lets the user run a selection of useful Powershell and Cmdline commands directly from the Terminal.
+Basic Python Script, which lets the User run a selection of useful Powershell and Cmdline Commands directly from the Terminal.
 
-The implemented commands are as follows:
+The implemented Commands are as follows:
 
 Powershell Commands:
 
@@ -13,5 +13,10 @@ Cmdline Commands:
 
 - list process (tasklist)
 - kill process (tasklist /F /PID [PROCESS])
+- clear terminal (cls)
 
-While killing processes it is also possible to kill a certain process without having to type in the file extension in Powershell, since it is already implemented in the code, although beforehand the path needs to be configured.
+Docstrings:
+
+- help [Keyword] (help function on all keywords with additional Information about the chosen Command)
+
+While killing processes it is also possible to kill a certain process without having to type in the file extension in Powershell, since it is already implemented in the code, although the path needs to be configured beforehand to function properly.
