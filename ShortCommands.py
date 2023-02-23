@@ -116,19 +116,21 @@ while Entry != "exit":
     elif x == "clear":
     
         os.system("cls")
-        
-        print("**Shortcut Commands**\n")
 
-        print ("start cmd = starts chosen process with cmdline")
-        print ("list cmd = searches for processes with cmdline")
-        print ("kill cmd = kills chosen process with cmdline\n")
+        print("**ShortCommands**\n")
 
-        print("start pwsh = starts chosen process with powershell")
-        print ("list pwsh = searches for processes with powershell")
-        print ("kill pwsh = kills chosen process with powershell\n")
+        print ("start [cmd] = starts chosen process with cmdline")
+        print ("list [cmd] = searches for processes with cmdline")
+        print ("kill [cmd] = kills chosen process with cmdline\n")
 
-        print ("net = searches for IP´s connected to network\n")
-        print ("clear = clears the terminal\n")
+        print ("start [pwsh] = starts chosen process with powershell")
+        print ("list [pwsh] = searches for processes with powershell")
+        print ("kill [pwsh] = kills chosen process with powershell\n")
+
+        print ("[net] = searches for IP´s connected to network")
+        print ("[clear] = clears the terminal\n")
+
+        print ("help [KEYWORD] = Gives additional information about chosen command\n")
 
 
 # Loop-End
