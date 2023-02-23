@@ -86,7 +86,7 @@ while Entry != "exit":
 
         start = input("\nWhich process?")
         
-        print("\n**Commandline**")
+        print("\n**Powershell**")
         os.system("powershell -c start " + start)
 
         
