@@ -1,22 +1,38 @@
 # ShortCommands
-Basic Python Script, which lets the User run a selection of useful Powershell and Cmdline Commands directly from the Terminal.
+Basic Python Script, which lets the User run a selection of useful Powershell and CMD Commands from the Terminal.
 
-The implemented Commands are as follows:
+The implemented Modules/Commands are as follows:
 
-Powershell Commands:
+Powershell and CMD Commands
+_____________________________
 
-- IP on network (Powershell -c get-netneighbor)
-- list process (Powershell -c get-process)
-- kill process (Powershell -c stop-process -name:[PROCESS]
+Several Scripts for starting, listing or killing processes as neccessary both via Powershell, or CMD.
 
-Cmdline Commands:
 
-- list process (tasklist)
-- kill process (tasklist /F /PID [PROCESS])
-- clear terminal (cls)
+Network
+_________
 
-Docstrings:
+Includes a few System- and Networkinformation scripts, as well as a full text encryption tool and a simple file copy and search tool.
 
-- help [Keyword] (help function on all keywords with additional Information about the chosen Command)
 
-While killing processes it is also possible to kill a certain process without having to type in the file extension in Powershell, since it is already implemented in the code, although the path needs to be configured beforehand to function properly.
+Websites
+_________
+
+Shortcuts for several Websites, which are frequently visited by myself. Feel free to change these as needed.
+
+
+Miscellanous
+_____________
+
+Scripts for keeping track of typed in commands, as well as maintaing a better layout.
+
+
+
+Additional Information for each Module, or Script can be found within the Program by using the help Command.
+
+Please report any occuring Bugs while using the Program
+
+
+  
+
+
