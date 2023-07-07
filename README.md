@@ -1,5 +1,6 @@
 # ShortCommands
-Basic Python Script, which lets the User run a selection of useful Powershell and CMD Commands from the Terminal.
+Collection of basic Python 3.0 Scripts, which lets the User run a selection of useful Powershell and CMD Commands from the Terminal.
+*DOES ONLY WORK IF THE TABULATE LIBRARY HAS BEEN INCLUDED TO PYTHON 3.0*
 
 
 _____________________________
