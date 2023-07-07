@@ -1,28 +1,27 @@
 # ShortCommands
 Basic Python Script, which lets the User run a selection of useful Powershell and CMD Commands from the Terminal.
 
-The implemented Modules/Commands are as follows:
 
 _____________________________
-Powershell and CMD Commands
+Powershell and CMD Commands:
 
 
 Several Scripts for starting, listing or killing processes as neccessary both via Powershell, or CMD.
 _____________________________
 
-Network
+Network:
 
 
 Includes a few System- and Networkinformation scripts, as well as a full text encryption tool and a simple file copy and search tool.
 _____________________________
 
-Websites
+Websites:
 
 
 Shortcuts for several Websites, which are frequently visited by myself. Feel free to change these as needed.
 ____________________________
 
-Miscellanous
+Miscellanous:
 
 
 Scripts for keeping track of typed in commands, as well as maintaing a better layout.
