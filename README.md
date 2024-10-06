@@ -25,13 +25,13 @@ ____________________________
 Miscellanous:
 
 
-Scripts for keeping track of typed in commands, as well as maintaing a better layout.
+Scripts for keeping track of typed in commands, as well as to maintain a better layout.
 ____________________________
 
 
-Additional Information for each Module, or Script can be found within the Program by using the help Command.
+Additional Information for each Module, or Script, can be found within the Program by using the help Command.
 
-Please report any occuring Bugs while using the Program
+Please report any occuring Bugs while using the Program.
 
 
   
